@@ -1,0 +1,19 @@
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\obj\Debug\DS4 Emulator.csproj.SuggestedBindingRedirects.cache
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\obj\Debug\DS4_Emulator.Properties.Resources.resources
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\obj\Debug\DS4 Emulator.csproj.GenerateResource.cache
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\obj\Debug\DS4 Emulator.csproj.AssemblyReference.cache
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\bin\Debug\DS4 Emulator.exe.config
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\bin\Debug\DS4 Emulator.exe
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\bin\Debug\DS4 Emulator.pdb
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\bin\Debug\JetBrains.Annotations.dll
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\bin\Debug\Nefarius.ViGEm.Client.dll
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\bin\Debug\SharpDX.dll
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\bin\Debug\SharpDX.XInput.dll
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\bin\Debug\JetBrains.Annotations.xml
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\bin\Debug\SharpDX.pdb
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\bin\Debug\SharpDX.XInput.pdb
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\bin\Debug\SharpDX.XInput.xml
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\obj\Debug\DS4 Emulator.csproj.CoreCompileInputs.cache
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\obj\Debug\DS4 Emulator.csproj.CopyComplete
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\obj\Debug\DS4 Emulator.exe
+Y:\Archive\Family\Pedro Pinto Ferreira\Projectos Independentes\Experiments\Windows\DS4 Emulator\obj\Debug\DS4 Emulator.pdb
